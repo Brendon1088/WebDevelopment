@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+}
+
+iframe {
+    height: 25vh;
+    width: 100vw;
+}
+
+#jeffy{
+    height: 50vh;
+}
